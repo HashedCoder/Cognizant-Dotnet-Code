@@ -124,3 +124,46 @@ MFPE/MFRP Project Source Code
 
 * truYum Case Study
 
+----------------------------------------
+
+# Dotnet Advanced Learning Path - Satge 2
+
+## SQL Server Handson
+
+* Create table with Foreign Key constraint
+* Alter Supplier table with Check Constraint
+* Worker and Admin Departments
+* Employee with reporting manger
+* Procedure to display the Employees of a specific Department
+* Procedure to display all the Departments
+* Employees working in New York
+
+### Practice Case Study
+
+* truYum Case Study
+
+
+## Entity Framework Handson
+
+* StudentDetails Using CodeFirst
+* BookEntry_FluentAPI
+* CourseRepository
+
+
+## ASP.Net MVC with Entity Framework Handson
+
+* Ex 1.1 - Controllers and Actions
+* Ex 1.2 Controllers and Actions
+* Ex 2.1 - Working With View Bag
+* Ex 3.1 Working With Model Binding
+* Ex 3.2 Working With Model Binding
+* Ex 5-1 Partial View
+* Ex 4-1 Working With HTTP POST
+* Ex 4-2 Working With HTTP POST
+* Ex 6-2 Entity Framework Integration With ASP MVC
+* Ex 6-3 Entity Framework Integration With ASP MVC - POST
+* Ex 6-4 Entity Framework Integration With ASP - POST
+
+### Practice Case Study
+
+* truYum Case Study ASP.net MVC
