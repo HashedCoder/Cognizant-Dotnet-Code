@@ -5,9 +5,9 @@ Dotnet Basics and Advanced Learning  for Dotnet Development and Full Stack Devel
 * Paid Materials.
 * Note:- For source code email us on hashedcoder@gmail.com
 
-# Cognizant Dotnet Domain Handson
+## Cognizant Dotnet Domain Handson
 
-# Stage-1
+### Stage-1
 
 * HTML/CSS Handson
 * JavaScript Handson
@@ -18,7 +18,7 @@ Code Challenge Questions
 ICTs Questions
 Case Study - TruYum Practice Case Study 
 
-# Stage-2
+### Stage-2
 
 * SQL Server Handson
 * ADO.net Handson
@@ -30,9 +30,9 @@ Code Challenge Questions
 ICTs Questions
 Case Study - TruYum Practice Case Study
 
-# Cognizant Dotnet Full Stack Basic & Advance
+## Cognizant Dotnet Full Stack Basic & Advance
 
-# Stage-3
+### Stage-3
 
 * SOLID principles Handson
 * Types of Design Patterns Handson
@@ -41,39 +41,39 @@ Case Study - TruYum Practice Case Study
 * Hackerrank assessment Questions
 * Bootstrap Handson
 
-# Stage-4
+### Stage-4
 
 * ASP.NET Core Web API Handson
 
 MFPE/MFRP Project Source Code
 
-# Dotnet Basics Learning Path - Satge 1
+## Dotnet Basics Learning Path - Satge 1
 
-# User Interface Design
+### User Interface Design
 
-# HTML5
+#### HTML5
 
 * Simple CALCULATOR
 * Learning Material Styling
 
-# CSS3
+#### CSS3
 
 * FeedBack Details
 * Bill Calculator
 * Trainer Feedback Rating Chart
 
-# JavaScript
+#### JavaScript
 
 * ACTB Connection Portal
 * EMI Calculator
 
-# Practice Case Study
+#### Practice Case Study
 
 * truYum Case Study
 
-# SQL Programming
+### SQL Programming
 
-# RDBMS Handson
+#### RDBMS Handson
 
 * Insert Records - Department
 * Department name based on block number
@@ -91,11 +91,11 @@ MFPE/MFRP Project Source Code
 * Hotels that took order based on month
 * Hotel_info
 
-# Practice Case Study
+#### Practice Case Study
 -------------------------
 * truYum Case Study
 
-# C# Programming Handson
+### C# Programming Handson
 
 * Registration Form
 * Find Square and Cube
@@ -120,7 +120,7 @@ MFPE/MFRP Project Source Code
 * ADO.NET_WorkshopEnrollmentApp_HandsOn1
 * Seminar Ticket Booking
 
-# Practice Case Study
+#### Practice Case Study
 
 * truYum Case Study
 
