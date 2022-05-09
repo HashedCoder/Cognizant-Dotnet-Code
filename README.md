@@ -6,6 +6,7 @@ Dotnet Basics and Advanced Learning  for Dotnet Development and Full Stack Devel
 * Note:- For source code email us on hashedcoder@gmail.com
 
 ## Cognizant Dotnet Domain Handson
+-------------------------------------
 
 ### Stage-1
 
@@ -92,7 +93,6 @@ MFPE/MFRP Project Source Code
 * Hotel_info
 
 #### Practice Case Study
--------------------------
 * truYum Case Study
 
 ### C# Programming Handson
