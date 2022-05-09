@@ -46,3 +46,81 @@ Case Study - TruYum Practice Case Study
 * ASP.NET Core Web API Handson
 
 MFPE/MFRP Project Source Code
+
+# Dotnet Basics Learning Path - Satge 1
+
+# User Interface Design
+
+# HTML5
+
+* Simple CALCULATOR
+* Learning Material Styling
+
+# CSS3
+
+* FeedBack Details
+* Bill Calculator
+* Trainer Feedback Rating Chart
+
+# JavaScript
+
+* ACTB Connection Portal
+* EMI Calculator
+
+# Practice Case Study
+
+* truYum Case Study
+
+# SQL Programming
+
+# RDBMS Handson
+
+* Insert Records - Department
+* Department name based on block number
+* Delivery Partner details based on rating
+* Car & owner details based on car type
+* Car details based on type and name
+* car rental system - Insert values
+* Hunger eats - update table
+* Customers having gmail id
+* Student and their Department Based on City
+* Concatenating Details
+* Password Generation
+* Customer using HDFC bank
+* Rental details based on date
+* Hotels that took order based on month
+* Hotel_info
+
+# Practice Case Study
+-------------------------
+* truYum Case Study
+
+# C# Programming Handson
+
+* Registration Form
+* Find Square and Cube
+* BooleanResult
+* MaxValueofSignedByte
+* Generate Bill Details
+* StringConcatenate
+* Quiz Competition Report
+* Reverse a Sentence
+* AccountDetails
+* OpenableInterface
+* GameInheritance
+* Find the Age of a person
+* CalculatorProgram
+* Extract Book Code - Hands -On
+* Flight Status
+* Age Calculation
+* Product Details
+* Vehicles Released in Certain Years - Linq
+* Balls Bowled - Hands-On
+* AddNewMember - Hands- On
+* ADO.NET_WorkshopEnrollmentApp_HandsOn1
+* Seminar Ticket Booking
+
+# Practice Case Study
+
+* truYum Case Study
+
